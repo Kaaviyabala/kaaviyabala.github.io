@@ -1,3 +1,5 @@
-Personal portfolio site for Kaaviya Varrshini Balasubramanian — Senior Analytics Engineer.
 
-🌐 Live site: kaaviyabala.github.io
+
+Personal portfolio site for **Kaaviya Varrshini Balasubramanian** — Senior Analytics Engineer.
+
+🌐 **Live site:** [kaaviyabala.github.io](https://kaaviyabala.github.io)
